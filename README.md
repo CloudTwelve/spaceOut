@@ -3,7 +3,7 @@ This is a macropad design that I made to play ROBLOX with! It's a cloud-shaped m
 It contains 5 keys, 4 arrow keys arranged in a reverse T formation, and a larger "space-bar" key (it's more the size of an enter key) at the bottom. It's like a controller, but for ROBLOX.
 
 ## the PCB design
-![Screen Shot 2025-02-21 at 5 36 57 AM](https://github.com/user-attachments/assets/9cc80746-e451-4e37-8814-a8422d61bdb9)
+![Screen Shot 2025-02-21 at 5 36 57 AM](https://github.com/user-attachments/assets/9cc80746-e451-4e37-8814-a8422d61bdb9) \
 (hope it's okay that it's a lil too big, it's too late anyways to fix it)
 
 ## the beautiful silkscreen design that I accidentally moved before saving...
