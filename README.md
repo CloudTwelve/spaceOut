@@ -15,6 +15,8 @@ It contains 6 keys, 4 arrow keys arranged in a reverse T formation, a larger "sp
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 
+## Images
+
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![Screen Shot 2025-02-27 at 11 07 34 PM](https://github.com/user-attachments/assets/54ad077e-713d-4cf7-8a70-a2f4642e3178)    |  ![Screen Shot 2025-02-27 at 11 06 32 PM](https://github.com/user-attachments/assets/730f9f46-8a2e-4d4e-b5e0-1305384df88d)  | ![Screen Shot 2025-02-27 at 11 34 08 PM](https://github.com/user-attachments/assets/aa3dee0a-655f-44bf-b635-2539b73d3e89)
