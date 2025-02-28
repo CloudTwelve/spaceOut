@@ -1,3 +1,29 @@
+# spaceOut
+This is a macropad design that I made to play ROBLOX with! It's a rectangle-shaped macropad with RGB LEDs and moon/star holes in the case 
+It contains 6 keys, 4 arrow keys arranged in a reverse T formation, a larger "space-bar" key (it's more the size of an enter key) at the bottom, and then another regular-sized key to the left of it (meant for pressing E). It's like a controller, but for ROBLOX!
+
+## the 3d model
+![Screen Shot 2025-02-27 at 10 54 46 PM](https://github.com/user-attachments/assets/f33d8409-1621-4126-9b71-a4046f17201f)
+
+## BOD
+- 6x Cherry MX Switches
+- 2x SK6812 MINI Leds
+- 1x XIAO RP2040
+- 6x Blank DSA Keycaps
+  - 5x 1.00u
+  - 1x 2.75u
+- 4x M3x16 Bolt
+- 4x M3 Heatset
+
+Schematic            |  PCB         |   Case
+:-------------------------:|:-------------------------:|:-------------------------:|
+![Screen Shot 2025-02-27 at 11 07 34 PM](https://github.com/user-attachments/assets/54ad077e-713d-4cf7-8a70-a2f4642e3178)    |  ![Screen Shot 2025-02-27 at 11 06 32 PM](https://github.com/user-attachments/assets/730f9f46-8a2e-4d4e-b5e0-1305384df88d)  | ![Screen Shot 2025-02-27 at 11 34 08 PM](https://github.com/user-attachments/assets/aa3dee0a-655f-44bf-b635-2539b73d3e89)
+
+
+=========================
+
+## A previous design, scrapped (too big)
+
 # roCloud
 This is a macropad design that I made to play ROBLOX with! It's a cloud-shaped macropad, hence the name "roCloud".
 It contains 5 keys, 4 arrow keys arranged in a reverse T formation, and a larger "space-bar" key (it's more the size of an enter key) at the bottom. It's like a controller, but for ROBLOX.
