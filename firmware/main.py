@@ -15,7 +15,7 @@ macros = Macros()
 keyboard.modules.append(macros)
 
 # Define your pins here!
-PINS = [board.D8, board.D10, board.D11, board.D9, board.D7]
+PINS = [board.D7, board.D9, board.D11, board.D8, board.D6, board.D3]
 
 # Tell kmk we are not using a key matrix
 keyboard.matrix = KeysScanner(
@@ -27,7 +27,7 @@ keyboard.matrix = KeysScanner(
 # Look here for keycodes: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/keycodes.md
 # And here for macros: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/macros.md
 keyboard.keymap = [
-    [KC.UP, KC.LEFT, KC.DOWN, KC.RIGHT, KC.SPACE]
+    [KC.UP, KC.LEFT, KC.DOWN, KC.RIGHT, KC.SPACE, KC.E]
 ]
 
 # Start kmk!
